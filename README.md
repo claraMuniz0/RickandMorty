@@ -43,9 +43,22 @@ No API keys or `.env` setup are required — the Rick and Morty API is public.
 
 ## Project history
 
-- [#1 — networking layer](https://github.com/claramzfpp/RickandMorty/pull/1)
-- [#2 — discover tab + character details](https://github.com/claramzfpp/RickandMorty/pull/2)
-- [#3 — favorites tab + persistence](https://github.com/claramzfpp/RickandMorty/pull/3)
+- [#1 — Added networking layer](https://github.com/claraMuniz0/RickandMorty/pull/1)
+- [#2 — Created discover screen and character details screen](https://github.com/claraMuniz0/RickandMorty/pull/2)
+- [#3 — Created favorites screen and implemented data persistence (Room)](https://github.com/claraMuniz0/RickandMorty/pull/3)
+- [#4 - Updated discover view with new carousels (season and location)](https://github.com/claraMuniz0/RickandMorty/pull/4)
+- [#5 - Updated character and locations UI details](https://github.com/claraMuniz0/RickandMorty/pull/5)
+- [#6 - Created season details - IA-first](https://github.com/claraMuniz0/RickandMorty/pull/6)
+
+<img width="484" height="902" alt="Screenshot 2026-08-31 at 18 59 11" src="https://github.com/user-attachments/assets/97c1442b-9ca2-4399-8172-c8c67e5f2109" />
+
+<img width="490" height="899" alt="Screenshot 2026-08-31 at 18 59 21" src="https://github.com/user-attachments/assets/a8724f6d-11f4-4a60-947c-5f8f2710eef9" />
+
+<img width="487" height="897" alt="Screenshot 2026-08-31 at 18 59 32" src="https://github.com/user-attachments/assets/7de3fdae-9aae-4007-9b34-f274985c43ac" />
+
+<img width="495" height="904" alt="Screenshot 2026-08-31 at 18 59 44" src="https://github.com/user-attachments/assets/2e03fbae-279b-4658-9e56-9ac72db3aa5b" />
+
+<img width="488" height="903" alt="Screenshot 2026-08-31 at 18 59 53" src="https://github.com/user-attachments/assets/f1f85525-8a5d-405c-9589-a61f76225dfa" />
 
 
 
